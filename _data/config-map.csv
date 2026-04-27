@@ -1,5 +1,7 @@
 field,display_name,search
 date,Date,true
-creator,Creator,true
+photographer,Photographer,true
 subject,Subjects,true
 location,Location,true
+latitude,Latitude,true
+longitude,Longitude,true

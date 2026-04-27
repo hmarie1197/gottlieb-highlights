@@ -1,15 +1,17 @@
 field,display_name,browse_link,external_link
 title,Title,
 photographer,Photographer,
-date,Date Created,
+datetaken,Date,
 description,Description,
 subject,Subjects,true
-location,Location
+locationtaken,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+relation,Related
+lccn,Library of Congress Control Number,,
+lccnurl,Source
 format,Format,
+filesize,File Size
+originalformat,Original Format
 rights,Rights,
 rightsstatement,Rights Statement,,true

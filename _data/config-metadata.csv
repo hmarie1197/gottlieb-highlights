@@ -7,9 +7,9 @@ subject,Subjects,true
 locationtaken,Location
 latitude,Latitude
 longitude,Longitude
-relation,Related
 lccn,Library of Congress Control Number,,
-lccnurl,Source
+lccnurl,LCCN URL
+relation,Related
 format,Format,
 filesize,File Size
 originalformat,Original Format

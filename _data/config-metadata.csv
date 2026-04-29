@@ -5,8 +5,7 @@ datetaken,Date,
 description,Description,
 subject,Subjects,true
 venue,Venue,true
-city,City,true
-state,State,true
+citystate,City and State,true
 latitude,Latitude
 longitude,Longitude
 lccn,Library of Congress Control Number,,

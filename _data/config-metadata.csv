@@ -4,7 +4,9 @@ photographer,Photographer,
 datetaken,Date,
 description,Description,
 subject,Subjects,true
-locationtaken,Location
+venue,Venue,true
+city,City,true
+state,State,true
 latitude,Latitude
 longitude,Longitude
 lccn,Library of Congress Control Number,,
